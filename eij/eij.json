@@ -1,0 +1,9 @@
+{
+    "AUTHOR" : "Jason and Nathan-DungeonMaster",
+    "SHORT" : "Run Everyone Is John game",
+    "DESCRIPTION" : "Support GM and players in an instance of the game",
+    "DISABLED" : false,
+    "NAME" : "EIJ",
+    "TAGS" : ["rpg", "fun"],
+    "INSTALL_MSG" : "Usage: `[p]insult <user>`"
+}
